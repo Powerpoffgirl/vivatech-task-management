@@ -1,5 +1,28 @@
 Deployed link: https://646f2062423fed1edcf7ecc5--lucky-sunburst-e981fc.netlify.app/
 
+Functionalities asked: -
+1.	Add a task card to the list
+2.	Update/ Delete task
+3.	Move card to another list
+4.	Export the entire list to excel
+
+Introduction
+When you open this app, you will be directly navigated to the task management page where, you will find three input fields Task List, Title & Description and a submit button.
+1.	To Add a task card to the list
+•	Enter the task list name in the “TaskList” field, task title in the “Title” and description in the “Description” respectively and then click the submit button.
+•	On submit, a new card will be created below with the list name given by the user.
+•	To add new card to the same list, repeat the above steps and you will find one more card the same list name.
+2.	To Update or Delete a task 
+•	To Update you can click on the edit button, will navigate you to the same input field with that card details, you want to update. Here, you can change all the three inputs TaskList, Title & Description.
+•	To Delete a task, click on the “Delete” button, that task will be deleted.
+3.	Move card to another list
+To move card to another list you have two options here: -
+i)	Using “Edit” button: It will navigate you to the same input field with that card details, you want to update. Then change the TaskList field with new task list name.
+ii)	Using “ChangeTaskList” button: On click, a prompt will be open & ask you to enter the new task list name. Once you submit the new task list name. It will remove the task from the previous task list and show it into the new task list.
+4.	Export the entire list to excel
+To export the list to excel click on “Export to excel” button. Once, you click on the button, it will export the whole list to the excel file.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
