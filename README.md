@@ -1,6 +1,7 @@
 Deployed link: https://646f2062423fed1edcf7ecc5--lucky-sunburst-e981fc.netlify.app/
 
 ![HomePageUI-1](HomePageUI-1.png)
+![Demo Video](Vivatech-TM-Video.mp4)
 
 Functionalities asked: -
 1.	Add a task card to the list
