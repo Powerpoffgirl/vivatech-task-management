@@ -1,6 +1,5 @@
 Deployed link: https://646f2062423fed1edcf7ecc5--lucky-sunburst-e981fc.netlify.app/
 
-HomePageUI-1.png
 Functionalities asked: -
 1.	Add a task card to the list
 2.	Update/ Delete task
